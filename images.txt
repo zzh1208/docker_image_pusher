@@ -1,4 +1,6 @@
 nginx
 mysql
+mysql:8.0.39
+redis:7.4.1
 
 
