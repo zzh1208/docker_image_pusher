@@ -4,5 +4,6 @@ mysql:8.0.39
 redis:7.4.1
 nacos/nacos-server:v2.4.2.1
 nacos/nacos-server:v2.3.1
+xuxueli/xxl-job-admin:2.4.1
 
 
