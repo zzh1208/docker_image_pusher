@@ -12,6 +12,7 @@ eclipse-temurin:17-jdk
 eclipse-temurin:8-jdk
 eclipse-temurin:21-jdk
 registry:2.8.3
+bitnami/prometheus:2.55.1
 
 
 
