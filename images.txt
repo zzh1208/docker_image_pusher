@@ -14,6 +14,7 @@ eclipse-temurin:21-jdk
 registry:2.8.3
 bitnami/prometheus:2.55.1
 bitnami/prometheus:2.53.0
+grafana/grafana:11.4.0
 
 
 
