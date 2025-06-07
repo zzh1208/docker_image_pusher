@@ -17,7 +17,7 @@ bitnami/prometheus:2.53.0
 grafana/grafana:11.4.0
 bitnami/node-exporter:1.8.2
 minio/minio
-influxdb:3.1.0-core
+influxdb:3.1.0-core 
 
 
 
